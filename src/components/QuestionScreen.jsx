@@ -11,7 +11,7 @@ export default function QuestionScreen({ question, onYes, isFirst }) {
             await Swal.fire({
                 title: "🥺 Pwease open it!",
                 text: "I promise it'll make you smile...",
-                imageUrl: "/gif/please.gif",
+                imageUrl: "/propose/gif/please.gif",
                 imageAlt: "Please gif",
                 imageWidth: 150,
                 background: "linear-gradient(135deg, #1d071b, #3a1638)",
@@ -25,7 +25,7 @@ export default function QuestionScreen({ question, onYes, isFirst }) {
             await Swal.fire({
                 title: "🥹 But I really like you!",
                 text: "Please give me a chance...",
-                imageUrl: "/gif/tears.gif",
+                imageUrl: "/propose/gif/tears.gif",
                 imageAlt: "Please gif",
                 imageWidth: 130,
                 background: "linear-gradient(135deg, #1d071b, #3a1638)",

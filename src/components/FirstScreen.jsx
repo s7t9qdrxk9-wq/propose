@@ -94,7 +94,7 @@ export default function FirstScreen({ onNext }) {
                             }}
                         >
                             <img 
-                                src="/gif/cute.gif" 
+                                src="/propose/gif/cute.gif" 
                                 className="w-36 h-36 object-contain" 
                                 alt="cute panda" 
                             />

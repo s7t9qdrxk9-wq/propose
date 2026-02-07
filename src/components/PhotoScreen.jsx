@@ -22,10 +22,10 @@ export default function PhotoScreen({ onNext }) {
     }, [])
 
     const photos = [
-        { id: 1, src: "/images/1.jpg", memory: "Our first hello 👋" },
-        { id: 2, src: "/images/2.jpg", memory: "That smile I fell for 😊" },
-        { id: 3, src: "/images/3.jpg", memory: "Best moments together 💫" },
-        { id: 4, src: "/images/4.jpg", memory: "You make my heart skip 💓" },
+        { id: 1, src: "/propose/images/1.jpg", memory: "Our first hello 👋" },
+        { id: 2, src: "/propose/images/2.jpg", memory: "That smile I fell for 😊" },
+        { id: 3, src: "/propose/images/3.jpg", memory: "Best moments together 💫" },
+        { id: 4, src: "/propose/images/4.jpg", memory: "You make my heart skip 💓" },
     ]
 
     return (

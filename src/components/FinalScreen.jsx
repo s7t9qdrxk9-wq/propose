@@ -150,7 +150,7 @@ Will you be mine forever?`
                     repeat: Infinity,
                 }}
               >
-                <img src="/gif/msg.gif" className="w-32" alt="love letter" />
+<img src="/propose/gif/msg.gif" className="w-32" alt="love letter" />
               </motion.div>
 
               <motion.h1

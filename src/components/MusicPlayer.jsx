@@ -37,7 +37,7 @@ export default function MusicPlayer() {
       <motion.audio
         ref={audioRef}
         loop
-        src="/audio/bg.mp3"
+        src="/propose/audio/bg.mp3"
       />
 
       <motion.button
